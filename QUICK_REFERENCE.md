@@ -226,11 +226,7 @@ export TF_CPP_MIN_LOG_LEVEL=2  # Linux/Mac
 - [ ] GitHub updated
 - [ ] Ready for interview
 
-## Contact Points
 
-**GitHub**: [Your Repository URL]  
-**LinkedIn**: [Your Profile]  
-**Email**: [Your Email]
 
 ## Final Steps
 
@@ -247,8 +243,6 @@ export TF_CPP_MIN_LOG_LEVEL=2  # Linux/Mac
 **Quick Start**: README.md → INSTALLATION.md → Run Pipeline → RESULTS.md
 
 **Deep Dive**: METHODOLOGY.md → TECHNICAL_APPENDIX.md
-
-**Interview Prep**: PRESENTATION_GUIDE.md → PROJECT_CHECKLIST.md
 
 ---
 
